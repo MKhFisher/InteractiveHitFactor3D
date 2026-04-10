@@ -2,7 +2,7 @@
   "name": "HitFactor 3D",
   "short_name": "HitFactor3D",
   "description": "3D Hit Factor surface visualization for USPSA Limited Optics",
-  "start_url": "./index.html",
+  "start_url": "/InteractiveHitFactor3D/index.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#0a0e17",
